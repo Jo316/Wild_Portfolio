@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Joseph Luntadila</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Best way to learn Entreprenuerial skills</title>
+      <link>/project/sturent/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/sturent/</guid>
+      <description>&lt;h3 id=&#34;learning-entrepreneurship-by-building-a-startup-from-scratch-student-a-student-innovation-service&#34;&gt;Learning Entrepreneurship by building a Start-up from Scratch: Student, a student innovation service&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Project (in the top left) provides the link to the website&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;This project ran across two units Creating a New Venture Creation and TGP4: Building Something Completely New. The challenge was to create a start-up from scratch. That is, from idea, through customer-development to Business Plan. We had the opportunity to apply the tools and knowledge we have been learning from previous years from projects and workshops.&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;task&#34;&gt;Task&lt;/h4&gt;
+&lt;p&gt;Write a Business Plan with evidence of product-market fit&lt;/p&gt;
+&lt;h4 id=&#34;our-approach-and-my-role&#34;&gt;Our Approach and My Role&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Jo316/Sturent/blob/master/DesignDocPoster.pdf&#34;&gt;Desing Process&lt;/a&gt;: explains the process team team underwent to produce the busniess idea.&lt;/p&gt;
+&lt;p&gt;We had many activities that we divided into subactivities. As the head of the research, my role was to make sure that our research used appropriate tools for the task, and tracked the progress of the team. I also was responsable for quatitative, qualitative and visualisation in the team.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Jo316/Sturent/blob/master/DSCN_Report1.pdf&#34;&gt;Prood of Problem and Opportunity&lt;/a&gt;
+Produce a Proof of Problem: this shows that not only there is a problem that is painful enough to design a solution for, but also opportunities to bring about a solution. this included:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A 5-minutes video report of the problem we identified, impacts, scale and causes of the problem&lt;/li&gt;
+&lt;li&gt;6 Page market research that supports the video&lt;/li&gt;
+&lt;li&gt;List of methods and activities to produce the Proof of Problem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;compet.jpg&#34; alt=&#34;Competitor&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Jo316/Sturent/blob/master/AwarenessCampaignReport.pdf&#34;&gt;Awerness Campaing&lt;/a&gt; is a &lt;a href=&#34;https://rb16730.wixsite.com/dscn&#34;&gt;MVP&lt;/a&gt; that we used to explain our solution to the target audience. It also was the tools that we used for testing and iterating.
+This also was a accompanied by a report with the design choice and strategy for the &lt;a href=&#34;https://github.com/Jo316/Sturent/blob/master/AwarenessCampaignReport.pdf&#34;&gt; Campaign&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;outcomes&#34;&gt;&lt;em&gt;Outcomes&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;We successfully designed &lt;a href=&#34;https://github.com/Jo316/Sturent/blob/master/Business-Plan%20(1).pdf&#34;&gt;Business Plan&lt;/a&gt; that satisfied the acceptance criteria. That is, proving that a business is desirable, feasible and viable not in the paper, but through product-market fit and product-business-model fit.&lt;/p&gt;
+&lt;h4 id=&#34;take-away&#34;&gt;&lt;em&gt;Take away&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Not to take lean at its face value, rather take it as framework from which  a solution is built and tailor it to the learning from the data and insight from the market-research and customer development.&lt;/li&gt;
+&lt;li&gt;One must believe in idea to work on it through, otherwise, obstacles will make giving up too easy.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flood Analytics as Service in DRC</title>
+      <link>/project/risk-assessment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/risk-assessment/</guid>
+      <description>&lt;h3 id=&#34;using-data-and-analytics-to-assesses-flood-risk-areas-in-congo-and-desing-systems-and-thinking-dst-to-design-response-this-is-a-project-were-analytics-and-desing-systems-and-thinking-met-to-deliver-value&#34;&gt;&lt;em&gt;Using Data and Analytics to assesses flood risk areas in Congo, and Desing Systems and Thinking (DST) to design response. This is a project were analytics and Desing Systems and Thinking met to deliver value&lt;/em&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;background&#34;&gt;&lt;em&gt;Background&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;In the face of many flash flood in the DRC, the University of Bristol in Partnership with Fathom Global and CRuHM research group took on the challenges of providing a scientific understanding of the phenomena, and suggest ways to better respond and build resilience.&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;task&#34;&gt;&lt;em&gt;Task&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide evidence to support risk assessment and flood management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;my-approach&#34;&gt;&lt;em&gt;My Approach&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;I used Excel, R, GIS, and Tableau for data processing, analysis, and visualizations&lt;/em&gt;
+the following is the breakdown of the tasks and the reasoning behind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Data Gathering and Cleaning - the quality of the model depend on the quality of the data. therefore identifying the correct data source and cleaning them was crucial&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Geospatial modeling and analysis - Evaluate the flood simulated flood extent to classify risk zones&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exposure Calculations - estimate the number of people exposure by flood return period and magnitude&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Damage Curves - estimate the damages to the infrastructure and property associated with the flood hazard&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Visualization - to communicate the complex information in a simple way&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Design System and Thinking to design recommendations&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;outcoomes&#34;&gt;&lt;em&gt;Outcoomes&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;My project was one of the key studies on flood risk assessment in the Congo and informed risk assessment of thereof. My supervisors were impressed with my work, which was published on the Chapman Conference on Hydrology in the USA.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;drc2.png&#34; alt=&#34;Deep Dive Flood Analyis: Kinshasa and Kingasani&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Figure 1 shows: (2) distribution of population in Congo, (2,3) Risk Zone by flood depth in Kisangani and Kinshasa. Thus,highlighiting the most volnerable areas for an event of such magnitute.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;drc3.png&#34; alt=&#34;Deep Dive Flood Analyis: Kinshasa and Kingasani&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Figure 2 shows the number of people exposed to the flood by province for different flood magnitude. Excluding the damages in infrastructure.&lt;/p&gt;
+&lt;h4 id=&#34;take-away&#34;&gt;&lt;em&gt;Take away&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;I learned that cleaning and the context for the data are a must for analysis with quality and better outcomes.&lt;/li&gt;
+&lt;li&gt;Best visualizations are those that easily communicate complex ideas, that is, they make it easy for the audience to understand. They should be made taking into account the audience.&lt;/li&gt;
+&lt;li&gt;Design Systems and Thinking is a transferable tool, useful when uncertainty is high.&lt;/li&gt;
+&lt;li&gt;human-centered Desing help to validate solutions from scientific models&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Canopius is building a risk-smart portfolio</title>
+      <link>/project/price-optimazation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/price-optimazation/</guid>
+      <description>&lt;h3 id=&#34;how-canopius-leveraging-data-and-analytics-to-build-a-risksmart-and-profitable-portfolio-while-making-a-smooth-transition-to-digital-insurance&#34;&gt;How Canopius leveraging data and analytics to build a risk-smart and profitable portfolio while making a smooth transition to digital insurance.&lt;/h3&gt;
+&lt;h4 id=&#34;problem-and-opportunity&#34;&gt;Problem and Opportunity&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Canopius, just like any other insurance company, collects data because the sector is data-driven. They were considering innovating their workflow, moving from the traditional way of doing insurance to digital. This is also the future according to many experts. Conopius had domain knowledge but lacked the technical expertise to take full advantage of the data they had been collecting. This project paved the way for full implementation advanced analytics and digitalization.&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;task&#34;&gt;&lt;em&gt;Task&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Prove that advanced analytics adds value to Canopius as a business and its clients.&lt;/li&gt;
+&lt;li&gt;Use Analytics provide evidence for decision-making, Underwriting in way that it&#39;s better than the traditional way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;my-approach-what-i-did-and-why&#34;&gt;&lt;em&gt;My approach: What I did and Why&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;I used Tableau, Excel, R, QGIS and statistics to extract value from Canopius data assets. This led to a better understanding of their risks, costs and informed decision making (e.g. Price optimization). The analysis was significant because it involved both historical and geographical components, thus helping learning insights and answering the question across time and space.&lt;/p&gt;
+&lt;p&gt;The Analysis involved not an only historical component, but geographical also to help gain insight both cross time and space. Using R, Excel, QGIS, and Tableau I leveraged Geographical Information Systems and Statistics to draw conclusions from the data and present the results in many formats such as graphs, dashboards, and maps as stand-alone products or within a report.&lt;/p&gt;
+&lt;p&gt;More also involved data interacting with SQL database both for downloading the data for the analysis and storing data that I cleaned coming from multiple sources (unclean) so that could be used by another member of the team without any problem. This work has helped Canopius base their business decisions and pricing models on actual data instead of actuarial tables while reducing uncertainty.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured1.gif&#34; alt=&#34;Website KPIs&#34;&gt;
+&lt;em&gt;The above figure shows a data tool for tracking website KPIs (Courtesy of Tableau). This the kind of tools I build but because of data sensitivity issues, I could not use the original products.&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;results-componetns-of-the-project-and-outcomes&#34;&gt;&lt;em&gt;Results- componetns of the project and outcomes:&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Claims reclassification: attribute the reason for the claims into a specific rule according to rules that I created to automate this process. This helped Canopius understand what factors account for most claims, and where State, County, and ZipCode are they coming from. I used SQL, R, and Excel for this task.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lakeside Flood and Dam break Analysis: Understand how well flood maps were representing the risk. I used GIS to evaluate the risk concerning a property. This informed Canopius of which areas to write and not the policy. Moreover, it was also used in the competitiveness report.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Competitiveness: Loss Ratio and Damage Ratio across the portfolio, to understand which factors have a significant impact on these two key variables. These two factors also provided insight into how well the business is doing and where, as well as the geographies with reasonable risk. thus, leading to smart underwriting, the understanding risk associated with a policy and spreading it in the portfolio. From this and lakeside analysis resulted in the selection of the list of risks that I client request to inform where they should write.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Geocoding performance: Using GIS, I evaluate the performance of the different geocoding providers. This helped Canopius decide on the best one. This is significant for the underwriting the higher the hit rate the better the understanding of the risk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rating Engine and Binder comparison: Automate price quote for underwriting team by including the guidelines into Excel application. This helped underwriter save time. no need to make the calculations to estimate pricing each time. they can rely on the model.
+Comparison some between Canopius&amp;rsquo; rating engine pricing and existing prices that have been charged on a contract. This helps them understand if their pricing reflects the data, how comparable with the competition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Augmentation: Use Open Source for PC insurance in the US marker. Use it as the baseline for the competitor analysis against every variable influencing insurance product performance. this was like validation for what the company was doing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;rusuts-summary&#34;&gt;&lt;em&gt;Rusuts summary:&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;price optimazation relying on the data instead of actuarial tables&lt;/li&gt;
+&lt;li&gt;real understadning of the risk in the prtfolio&lt;/li&gt;
+&lt;li&gt;Effiency in perfomance&lt;/li&gt;
+&lt;li&gt;Increased hit rate&lt;/li&gt;
+&lt;li&gt;validation for fully integration&lt;/li&gt;
+&lt;li&gt;New Leads&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;take-away&#34;&gt;&lt;em&gt;take away&lt;/em&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Not only build a cool solution, but one adds value to the company&lt;/li&gt;
+&lt;li&gt;SWOT analysis to evaluate the business value of the data tools&lt;/li&gt;
+&lt;li&gt;Critique my work, and ask others to review my work. This is particularly, important for a high stake project that a minor mistake could cost the company lots of money.&lt;/li&gt;
+&lt;li&gt;Always get rid of the technical jargon when communicating the findings and be succinct&lt;/li&gt;
+&lt;li&gt;Always keep your research in archives, you will need it&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

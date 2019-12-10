@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Joseph Luntadila</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;h3 id=&#34;i-am-studying-msci-geography-with-innovation-at-university-of-bristol-i-love-using-data-and-analytics-as-well-as-design-system-and-thinking-to-design-innovative-solutions&#34;&gt;I am studying Msci Geography with Innovation at University of Bristol. I love using data and analytics as well as Design System and Thinking to design innovative solutions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Currently, I am working on three projects:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;flood-risk-assessment-and-forecast-in-drc&#34;&gt;Flood Risk Assessment and Forecast in DRC&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;developing-data-tools-to-track-kpis-for-an-insurance-company&#34;&gt;Developing Data tools to track KPIs for an insurance company&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;food-security-model-for-angolan-government-through-a-ngo&#34;&gt;Food Security Model for Angolan Government through a NGO&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
