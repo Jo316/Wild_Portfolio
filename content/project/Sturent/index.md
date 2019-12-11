@@ -47,8 +47,7 @@ Write a Business Plan with evidence of product-market fit
 
 We had many activities that we divided into subactivities. As the head of the research, my role was to make sure that our research used appropriate tools for the task, and tracked the progress of the team. I also was responsable for quatitative, qualitative and visualisation in the team.
 
-[Prood of Problem and Opportunity](https://github.com/Jo316/Sturent/blob/master/DSCN_Report1.pdf)
-Produce a Proof of Problem: this shows that not only there is a problem that is painful enough to design a solution for, but also opportunities to bring about a solution. this included:
+[Proof of Problem and Opportunity](https://github.com/Jo316/Sturent/blob/master/DSCN_Report1.pdf): this shows that not only there is a problem that is painful enough to design a solution for, but also opportunities to bring about a solution. this included:
 - A 5-minutes video report of the problem we identified, impacts, scale and causes of the problem
 - 6 Page market research that supports the video
 - List of methods and activities to produce the Proof of Problem
